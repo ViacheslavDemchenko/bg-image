@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+Background image type choice according to the current browser and it's version
